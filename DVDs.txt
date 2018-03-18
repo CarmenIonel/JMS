@@ -1,0 +1,3 @@
+DVD{title='1', year=1, price=1.0}
+DVD{title='2', year=2, price=2.0}
+DVD{title='3', year=3, price=3.0}
